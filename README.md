@@ -1,6 +1,6 @@
 # Flutter Projects Repository
 
-This repository contains simple Flutter projects created to help learn and understand the use of basic Flutter widgets, layouts, state management, and navigation.
+This repository contains simple Flutter projects created to learn and understand the use of basic Flutter widgets, layouts, state management, and navigation.
 
 ## Projects
 
